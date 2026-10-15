@@ -42,7 +42,7 @@
 		<Program_Cost_Other_Code />
 		<Program_Cost_Other />
 		<Program_Type>Freeware</Program_Type>
-		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Release_Status>Minor Update</Program_Release_Status>
 		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
 		<Program_OS_Support>Windows 10, Windows 11</Program_OS_Support>
 		<Program_Language>English</Program_Language>
@@ -60,7 +60,7 @@
 			<Expire_Day />
 			<Expire_Year />
 		</Expire_Info>
-		<Program_Change_Info>Initial public release.</Program_Change_Info>
+		<Program_Change_Info>Version 1.1.1: stability improvements and bug fixes.</Program_Change_Info>
 		<Program_Category_Class>Internet::Tools</Program_Category_Class>
 		<Program_Specific_Category>Internet::Tools &amp; Utilities</Program_Specific_Category>
 		<Program_System_Requirements>Windows 10 or 11 (64-bit), internet connection</Program_System_Requirements>
@@ -96,9 +96,9 @@ Google Maps, Street View, and the Google logo are trademarks of Google LLC. This
 		<Application_URLs>
 			<Application_Info_URL>https://downloadmapimage.com/screenshot/</Application_Info_URL>
 			<Application_Order_URL />
-			<Application_Screenshot_URL />
-			<Application_Icon_URL />
-			<Application_XML_File_URL />
+			<Application_Screenshot_URL>https://raw.githubusercontent.com/nguyenbavinh89/window-app/main/IMG1.PNG</Application_Screenshot_URL>
+			<Application_Icon_URL>https://downloadmapimage.com/wp-content/uploads/2026/06/cropped-cropped-logo-512x512-1-270x270.png</Application_Icon_URL>
+			<Application_XML_File_URL>https://raw.githubusercontent.com/nguyenbavinh89/window-app/main/PAD.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
 			<Primary_Download_URL>https://github.com/nguyenbavinh89/window-app/releases/download/v1.1.1/GoogleMapsScreenshotDownloader-Setup-1.1.1.exe</Primary_Download_URL>
