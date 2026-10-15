@@ -98,7 +98,7 @@ Google Maps, Street View, and the Google logo are trademarks of Google LLC. This
 			<Application_Order_URL />
 			<Application_Screenshot_URL>https://raw.githubusercontent.com/nguyenbavinh89/window-app/main/IMG1.PNG</Application_Screenshot_URL>
 			<Application_Icon_URL>https://downloadmapimage.com/wp-content/uploads/2026/06/cropped-cropped-logo-512x512-1-270x270.png</Application_Icon_URL>
-			<Application_XML_File_URL>https://raw.githubusercontent.com/nguyenbavinh89/window-app/refs/heads/main/PAD.xml</Application_XML_File_URL>
+			<Application_XML_File_URL>https://raw.githubusercontent.com/nguyenbavinh89/window-app/main/PAD.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
 			<Primary_Download_URL>https://github.com/nguyenbavinh89/window-app/releases/download/v1.1.1/GoogleMapsScreenshotDownloader-Setup-1.1.1.exe</Primary_Download_URL>
